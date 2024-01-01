@@ -30,7 +30,7 @@ This project is a simple web-based calculator designed and implemented using HTM
 
 ## Usage
 
-1. Open `index.html` in your web browser.
+1. Open `Simple_Calc.html` in your web browser.
 2. Use the calculator buttons to perform calculations.
 3. Enjoy a simple and efficient calculator experience.
 
